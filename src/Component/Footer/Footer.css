@@ -1,0 +1,47 @@
+.Footer {
+    background: #111A28;
+    color: #fff;
+}
+
+.FooterTop {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.FooterTop h6 {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+.FooterTop p {
+    color: #d2d2d2;
+    margin-bottom: 6px;
+}
+
+.AboutContent img {
+    width: 150px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.AboutContent h4 {
+    font-weight: 500;
+    font-size: 22px;
+    margin-bottom: 18px;
+}
+
+.AboutContent p {
+    color: #d2d2d2;
+}
+
+.FooterBottom {
+    background-color: #282C34;
+    text-align: center;
+    border-top: 1px solid #585858;
+}
+
+.FooterBottom p {
+    margin-bottom: 0px;
+    color: #d2d2d2;
+    padding: 12px 0px;
+}
